@@ -13,11 +13,9 @@
 # Relationship Between Distace and Time Taken
 ![FD11](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/dd1a0aa0-9dfa-4c09-a058-edce11f9e288)
 ![Food Delivery 1](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/c3f6db5b-3318-4b56-bc51-141715f95ef1)
-
 # Relationship Between Time Taken and Age
-
+![FD12](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/5e817604-3fd8-4de2-a57b-28a2056d3d0c)
 ![Food Delivery 2](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/f915d860-c79e-4267-b4a6-63c43e1b0567)
-
 # Relationship Between Time Taken and Delivery Person Ratings
-
+![FD13](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/8a75d818-bc71-4d39-b34c-6197ab7d5685)
 ![Food Delivery 3](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/6aeda24a-adfe-4d7f-885e-5d6d4875ef5c)
