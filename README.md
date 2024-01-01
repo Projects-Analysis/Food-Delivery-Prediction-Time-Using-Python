@@ -1,6 +1,6 @@
 # Food Delivery Prediction Time Using Python 
 * In a world where convenience reigns supreme, food delivery services have become an essential part of our daily lives. But have you ever wondered how they manage to estimate delivery times with such accuracy?
-* Welcome to a project that delves into the heart of this technological marvel: food delivery time prediction using Python and machine learning!
+* Welcome to a project that delves into the heart of this technological marvel: food delivery time prediction using Python(machine learning)
 ## Get ready to explore:
 
 * The power of machine learning to unlock hidden patterns in delivery data.
