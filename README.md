@@ -1,4 +1,4 @@
-# Food-Delivery-Prediction-Time-Using-Python 
+# Food Delivery Prediction Time Using Python 
 ![FD1](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/2650a629-a8ac-4057-9131-d09cdb4c1166)
 ![FD2](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/4ac92471-760f-4faa-b69f-07302f771726)
 ![FD3](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/2b8e791f-9ce5-4621-bab3-a36d00a99eb0) 
@@ -18,4 +18,12 @@
 ![Food Delivery 2](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/f915d860-c79e-4267-b4a6-63c43e1b0567)
 # Relationship Between Time Taken and Delivery Person Ratings
 ![FD13](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/8a75d818-bc71-4d39-b34c-6197ab7d5685)
-![Food Delivery 3](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/6aeda24a-adfe-4d7f-885e-5d6d4875ef5c)
+![Food Delivery 3](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/6aeda24a-adfe-4d7f-885e-5d6d4875ef5c) 
+![FD14](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/bda5f84d-2967-4de9-b601-00531900c1e1)
+![FD15](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/557174b3-364e-4772-8af0-c21678e56987)
+![FD16](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/4cd4bb22-3b98-4c51-958d-c2a9009434e1)
+![FD17](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/48fa1cbc-2858-4831-bbac-80243c73f668)
+![FD18](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/d1e01935-4e0c-4c36-a76b-dc37407baab4)
+
+
+
