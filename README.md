@@ -6,7 +6,7 @@
 ![FD5](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/f458129a-3e73-4ab5-ae6b-8fa12407af88)
 ![FD6](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/875eedd7-b05d-4472-b026-0bb462dd3183)
 ![FD7](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/4cc5d849-fde3-4976-a6e6-aef3e795b01d)
-# Stastical Overview of the Data 
+# Statistical Overview of the Data 
 ![FD8](https://github.com/Projects-Analysis/Food-Delivery-Prediction-Time-Using-Python/assets/149543175/d99e18b3-40ef-47a9-8c7a-60d1881a8613)
 
 
